@@ -2993,3 +2993,227 @@
 2019-03-22 10:20:22 INFO  TestBase:294 - HO3 selected as PlanID
 2019-03-22 10:20:22 INFO  TestBase:294 - Clicked the "Start Quote" button on the FAO page
 2019-03-22 10:20:22 INFO  TestBase:294 - Driver has moved to tab 1
+2019-03-22 10:40:40 INFO  TestBase:294 - ====================================== Starting Rates_HO3 Batch ======================================
+2019-03-22 10:40:43 INFO  TestBase:294 - ========================= Starting Case22 =========================
+2019-03-22 10:40:43 INFO  TestBase:294 - Creating object of Chrome
+2019-03-22 10:40:50 INFO  TestBase:294 - Chrome object created
+2019-03-22 10:40:50 INFO  TestBase:294 - Driver has moved to the main tab
+2019-03-22 10:40:50 INFO  TestBase:294 - Navigating to https://62.qa.foragentsonly.com/login/
+2019-03-22 10:40:53 INFO  TestBase:294 - Entered PGR AgentID: 53134 into FAO Login
+2019-03-22 10:40:53 INFO  TestBase:294 - Entered password into FAO Login
+2019-03-22 10:40:56 INFO  TestBase:294 - Logged into FAO
+2019-03-22 10:40:56 INFO  TestBase:294 - Logged in as AgentID: 53134
+2019-03-22 10:40:56 INFO  TestBase:294 - Entered State: TN
+2019-03-22 10:40:56 INFO  TestBase:294 - Clicked the "Select Product(s)" button on the FAO Home page
+2019-03-22 10:40:56 INFO  TestBase:294 - HO3 selected as PlanID
+2019-03-22 10:40:56 INFO  TestBase:294 - Clicked the "Start Quote" button on the FAO page
+2019-03-22 10:40:56 INFO  TestBase:294 - Driver has moved to tab 1
+2019-03-22 11:49:29 INFO  TestBase:294 - ====================================== Starting Rates_HO3 Batch ======================================
+2019-03-22 11:49:32 INFO  TestBase:294 - ========================= Starting Case22 =========================
+2019-03-22 11:49:32 INFO  TestBase:294 - Creating object of Chrome
+2019-03-22 11:49:38 INFO  TestBase:294 - Chrome object created
+2019-03-22 11:49:39 INFO  TestBase:294 - Driver has moved to the main tab
+2019-03-22 11:49:39 INFO  TestBase:294 - Navigating to https://62.qa.foragentsonly.com/login/
+2019-03-22 11:49:42 INFO  TestBase:294 - Entered PGR AgentID: 53134 into FAO Login
+2019-03-22 11:49:42 INFO  TestBase:294 - Entered password into FAO Login
+2019-03-22 11:49:44 INFO  TestBase:294 - Logged into FAO
+2019-03-22 11:49:44 INFO  TestBase:294 - Logged in as AgentID: 53134
+2019-03-22 11:49:45 INFO  TestBase:294 - Entered State: TN
+2019-03-22 11:49:45 INFO  TestBase:294 - Clicked the "Select Product(s)" button on the FAO Home page
+2019-03-22 11:49:45 INFO  TestBase:294 - HO3 selected as PlanID
+2019-03-22 11:49:45 INFO  TestBase:294 - Clicked the "Start Quote" button on the FAO page
+2019-03-22 11:49:45 INFO  TestBase:294 - Driver has moved to tab 1
+2019-03-22 11:50:00 INFO  TestBase:294 - ASI Agent Code Prefilled with : 446489
+2019-03-22 11:50:01 INFO  TestBase:294 - Entered First Name: TNHO3Case22
+2019-03-22 11:50:02 INFO  TestBase:294 - Entered Last Name: StagingRoundOne
+2019-03-22 11:50:02 INFO  TestBase:294 - Entered Date of Birth: 07251950
+2019-03-22 11:50:02 INFO  TestBase:294 - Entered Gender: Male
+2019-03-22 11:50:03 INFO  TestBase:294 - Entered Mailing Address Line 1: 8741 BROOKHILL DR
+2019-03-22 11:50:03 INFO  TestBase:294 - No value for Mailing Address Line 2
+2019-03-22 11:50:04 INFO  TestBase:294 - Entered City: HIXSON
+2019-03-22 11:50:04 INFO  TestBase:294 - Entered ZIP Code: 37343
+2019-03-22 11:50:04 INFO  TestBase:294 - Entered "How long has the insured lived at their current address?": 1 year or more
+2019-03-22 11:50:05 INFO  TestBase:294 - Entered "Was the above disclosure read or provided to the consumer?": Yes
+2019-03-22 11:50:05 INFO  TestBase:294 - Clicked the "Products ->" button on the Named Insured page
+2019-03-22 11:50:09 INFO  TestBase:294 - Entered Policy Effective Date: 03252019
+2019-03-22 11:50:10 INFO  TestBase:294 - Clicked NO on the "Is this risk for a home closing?" radio button on the Products page
+2019-03-22 11:50:14 INFO  TestBase:294 - Entered Residence Type: Single Family
+2019-03-22 11:50:19 INFO  TestBase:294 - "I have verified that NONE of these conditions exist" check boxes marked
+2019-03-22 11:50:21 INFO  TestBase:294 - Clicked the "CONTINUE TO QUOTE TYPE" button on the Products page
+2019-03-22 11:50:54 INFO  TestBase:294 - Entered Begin with Dwelling Coverage: 200000
+2019-03-22 11:50:55 INFO  TestBase:294 - Clicked the "FULL QUOTE" button on the Products page
+2019-03-22 11:50:58 INFO  TestBase:294 - Entered Purchase Date: 03222019
+2019-03-22 11:51:02 INFO  TestBase:294 - Entered Year Home Built: 1985
+2019-03-22 11:51:05 INFO  TestBase:294 - "Is a fire hydrant within 1000 feet" field is not currently displayed
+2019-03-22 11:51:05 INFO  TestBase:294 - Entered Type of Construction: Frame
+2019-03-22 11:51:07 INFO  TestBase:294 - Entered Exterior Walls: Concrete Block
+2019-03-22 11:51:08 INFO  TestBase:294 - Entered Number of Stories: Bi Level / Raised Ranch
+2019-03-22 11:51:10 INFO  TestBase:294 - Entered Year Roof Installed: 2019
+2019-03-22 11:51:11 INFO  TestBase:294 - Entered Roof Design: Gable
+2019-03-22 11:51:13 INFO  TestBase:294 - Entered Roof Material: Metal
+2019-03-22 11:51:14 INFO  TestBase:294 - Q38944519
+2019-03-22 11:51:14 INFO  TestBase:294 - Purchase Date already entered: 03/22/2019
+2019-03-22 11:51:14 INFO  TestBase:294 - Year Home Built already entered: 1985
+2019-03-22 11:51:15 INFO  TestBase:294 - Type of Construction already entered: Frame
+2019-03-22 11:51:15 INFO  TestBase:294 - Exterior Walls already entered: Concrete Block
+2019-03-22 11:51:16 INFO  TestBase:294 - Number of Stories already entered: Bi Level / Raised Ranch
+2019-03-22 11:51:16 INFO  TestBase:294 - Year Roof Installed already entered: 2019
+2019-03-22 11:51:16 INFO  TestBase:294 - Roof Design already entered: Gable
+2019-03-22 11:51:19 INFO  TestBase:294 - Roof Material already entered: Metal
+2019-03-22 11:51:19 INFO  TestBase:294 - Saved Quote
+2019-03-22 11:51:21 INFO  TestBase:294 - Driver has moved to the main tab
+2019-03-22 11:51:21 INFO  TestBase:294 - Navigating to https://uat-policy.americanstrategic.com/Policy/Lookup.aspx
+2019-03-22 11:51:23 INFO  TestBase:294 - Entered username into Agent Login
+2019-03-22 11:51:23 INFO  TestBase:294 - Entered password into Agent Login
+2019-03-22 11:51:24 INFO  TestBase:294 - Logged into Agent Portal
+2019-03-22 11:51:25 INFO  TestBase:294 - Entered Quote / Policy #: Q38944519
+2019-03-22 11:51:28 INFO  TestBase:294 - Clicked the "Lookup Quote/Policy" button on the Rating and Policy Lookup page
+2019-03-22 11:51:34 INFO  TestBase:294 - Clicked the "Next" button on the Plan and Residence Type page
+2019-03-22 11:51:35 INFO  TestBase:294 - Entered Occupation: Other
+2019-03-22 11:51:35 INFO  TestBase:294 - Entered Protection Class: 4
+2019-03-22 11:51:36 INFO  TestBase:294 - "Dwelling Coverage" override check box marked
+2019-03-22 11:51:36 INFO  TestBase:294 - "General Underwriting" override check box marked
+2019-03-22 11:51:37 INFO  TestBase:294 - "Social Security" override check box marked
+2019-03-22 11:51:37 INFO  TestBase:294 - "Water Damage Exclusion" override check box marked
+2019-03-22 11:51:37 INFO  TestBase:294 - "Animal Liability" override check box marked
+2019-03-22 11:51:37 INFO  TestBase:294 - "Purchase Price" override check box marked
+2019-03-22 11:51:38 INFO  TestBase:294 - "Short Sale or Foreclosure" override check box marked
+2019-03-22 11:51:38 INFO  TestBase:294 - "Eligibility Referral" override check box marked
+2019-03-22 11:51:38 INFO  TestBase:294 - "Flood Zone" override check box marked
+2019-03-22 11:51:38 INFO  TestBase:294 - "Geo Location" override check box marked
+2019-03-22 11:51:38 INFO  TestBase:294 - "Address" override check box marked
+2019-03-22 11:51:39 INFO  TestBase:294 - "Closed Zip Code" override check box marked
+2019-03-22 11:51:39 INFO  TestBase:294 - "Remove Lead Liability Exclusion" override check box marked
+2019-03-22 11:51:39 INFO  TestBase:294 - "HomeShield Package" override check box marked
+2019-03-22 11:51:39 INFO  TestBase:294 - "Functional Replacement Cost" override check box marked
+2019-03-22 11:51:39 INFO  TestBase:294 - "Updated Home Discount" override check box marked
+2019-03-22 11:51:40 INFO  TestBase:294 - "Previous Claims" override check box marked
+2019-03-22 11:51:40 INFO  TestBase:294 - "Flat Roof" override check box marked
+2019-03-22 11:51:40 INFO  TestBase:294 - "Address Standardization" override check box marked
+2019-03-22 11:51:40 INFO  TestBase:294 - "CLUE" override check box marked
+2019-03-22 11:51:40 INFO  TestBase:294 - "Age of Dwelling" override check box marked
+2019-03-22 11:51:40 INFO  TestBase:294 - "Loss Assessment" override check box marked
+2019-03-22 11:51:41 INFO  TestBase:294 - "HomeShield Plus Package" override check box marked
+2019-03-22 11:51:41 INFO  TestBase:294 - "Prior Liability Limit" override check box marked
+2019-03-22 11:51:41 INFO  TestBase:294 - "Scheduled Personal Property" override check box marked
+2019-03-22 11:51:42 INFO  TestBase:294 - Entered Notes (FOR OVERRIDE PURPOSE ONLY): Rates Testing
+2019-03-22 11:51:43 INFO  TestBase:294 - Entered Credit Score (Override): 730
+2019-03-22 11:51:43 INFO  TestBase:294 - Entered ASI Claim Surcharge (Override): 0
+2019-03-22 11:51:43 INFO  TestBase:294 - Entered Claim Count (Override): 2
+2019-03-22 11:51:43 INFO  TestBase:294 - All overrides have been applied
+2019-03-22 11:51:46 INFO  TestBase:294 - Clicked the "Save" button on the Policy Rating 1 page
+2019-03-22 11:51:46 INFO  TestBase:294 - Case22-Q38944519: Overrides were able to be saved
+2019-03-22 11:51:46 INFO  TestBase:294 - Navigating to https://62.qa.foragentsonly.com/login/
+2019-03-22 11:51:49 INFO  TestBase:294 - Clicked the "Existing Quote" button on the FAO Home page
+2019-03-22 11:51:49 INFO  TestBase:294 - Entered Last Name: StagingRoundOne
+2019-03-22 11:51:49 INFO  TestBase:294 - Entered First Name: TNHO3Case22
+2019-03-22 11:51:50 INFO  TestBase:294 - Entered Start Effective Date: 03252019
+2019-03-22 11:51:51 INFO  TestBase:294 - Entered End Effective Date: 03252019
+2019-03-22 11:51:51 INFO  TestBase:294 - Clicked the "START" button on the FAO Home page
+2019-03-22 11:52:25 INFO  TestBase:294 - Clicked the appropriate quote: StagingRoundOne, TNHO3Case22 on the Quote Screen
+2019-03-22 11:52:25 INFO  TestBase:294 - Driver has moved to tab 1
+2019-03-22 12:03:07 INFO  TestBase:294 - ====================================== Starting Rates_HO3 Batch ======================================
+2019-03-22 12:03:10 INFO  TestBase:294 - ========================= Starting Case22 =========================
+2019-03-22 12:03:10 INFO  TestBase:294 - Creating object of Chrome
+2019-03-22 12:03:18 INFO  TestBase:294 - Chrome object created
+2019-03-22 12:03:18 INFO  TestBase:294 - Driver has moved to the main tab
+2019-03-22 12:03:18 INFO  TestBase:294 - Navigating to https://62.qa.foragentsonly.com/login/
+2019-03-22 12:03:20 INFO  TestBase:294 - Entered PGR AgentID: 53134 into FAO Login
+2019-03-22 12:03:20 INFO  TestBase:294 - Entered password into FAO Login
+2019-03-22 12:03:28 INFO  TestBase:294 - Logged into FAO
+2019-03-22 12:03:28 INFO  TestBase:294 - Logged in as AgentID: 53134
+2019-03-22 12:03:29 INFO  TestBase:294 - Entered State: TN
+2019-03-22 12:03:29 INFO  TestBase:294 - Clicked the "Select Product(s)" button on the FAO Home page
+2019-03-22 12:03:29 INFO  TestBase:294 - HO3 selected as PlanID
+2019-03-22 12:03:29 INFO  TestBase:294 - Clicked the "Start Quote" button on the FAO page
+2019-03-22 12:03:29 INFO  TestBase:294 - Driver has moved to tab 1
+2019-03-22 12:03:43 INFO  TestBase:294 - ASI Agent Code Prefilled with : 446489
+2019-03-22 12:03:44 INFO  TestBase:294 - Entered First Name: TNHO3Case22
+2019-03-22 12:03:45 INFO  TestBase:294 - Entered Last Name: StagingRoundOne
+2019-03-22 12:03:46 INFO  TestBase:294 - Entered Date of Birth: 07251950
+2019-03-22 12:03:46 INFO  TestBase:294 - Entered Gender: Male
+2019-03-22 12:03:47 INFO  TestBase:294 - Entered Mailing Address Line 1: 8741 BROOKHILL DR
+2019-03-22 12:03:47 INFO  TestBase:294 - No value for Mailing Address Line 2
+2019-03-22 12:03:48 INFO  TestBase:294 - Entered City: HIXSON
+2019-03-22 12:03:48 INFO  TestBase:294 - Entered ZIP Code: 37343
+2019-03-22 12:03:48 INFO  TestBase:294 - Entered "How long has the insured lived at their current address?": 1 year or more
+2019-03-22 12:03:49 INFO  TestBase:294 - Entered "Was the above disclosure read or provided to the consumer?": Yes
+2019-03-22 12:03:49 INFO  TestBase:294 - Clicked the "Products ->" button on the Named Insured page
+2019-03-22 12:03:55 INFO  TestBase:294 - Entered Policy Effective Date: 03252019
+2019-03-22 12:03:56 INFO  TestBase:294 - Clicked NO on the "Is this risk for a home closing?" radio button on the Products page
+2019-03-22 12:03:59 INFO  TestBase:294 - Entered Residence Type: Single Family
+2019-03-22 12:04:05 INFO  TestBase:294 - "I have verified that NONE of these conditions exist" check boxes marked
+2019-03-22 12:04:07 INFO  TestBase:294 - Clicked the "CONTINUE TO QUOTE TYPE" button on the Products page
+2019-03-22 12:04:38 INFO  TestBase:294 - Entered Begin with Dwelling Coverage: 200000
+2019-03-22 12:04:39 INFO  TestBase:294 - Clicked the "FULL QUOTE" button on the Products page
+2019-03-22 12:04:41 INFO  TestBase:294 - Entered Purchase Date: 03222019
+2019-03-22 12:04:45 INFO  TestBase:294 - Entered Year Home Built: 1985
+2019-03-22 12:04:48 INFO  TestBase:294 - "Is a fire hydrant within 1000 feet" field is not currently displayed
+2019-03-22 12:04:49 INFO  TestBase:294 - Entered Type of Construction: Frame
+2019-03-22 12:04:50 INFO  TestBase:294 - Entered Exterior Walls: Concrete Block
+2019-03-22 12:04:52 INFO  TestBase:294 - Entered Number of Stories: Bi Level / Raised Ranch
+2019-03-22 12:04:54 INFO  TestBase:294 - Entered Year Roof Installed: 2019
+2019-03-22 12:04:55 INFO  TestBase:294 - Entered Roof Design: Gable
+2019-03-22 12:04:57 INFO  TestBase:294 - Entered Roof Material: Metal
+2019-03-22 12:04:58 INFO  TestBase:294 - Q38945671
+2019-03-22 12:04:58 INFO  TestBase:294 - Purchase Date already entered: 03/22/2019
+2019-03-22 12:04:58 INFO  TestBase:294 - Year Home Built already entered: 1985
+2019-03-22 12:04:58 INFO  TestBase:294 - Type of Construction already entered: Frame
+2019-03-22 12:04:59 INFO  TestBase:294 - Exterior Walls already entered: Concrete Block
+2019-03-22 12:04:59 INFO  TestBase:294 - Number of Stories already entered: Bi Level / Raised Ranch
+2019-03-22 12:05:00 INFO  TestBase:294 - Year Roof Installed already entered: 2019
+2019-03-22 12:05:00 INFO  TestBase:294 - Roof Design already entered: Gable
+2019-03-22 12:05:01 INFO  TestBase:294 - Roof Material already entered: Metal
+2019-03-22 12:05:02 INFO  TestBase:294 - Saved Quote
+2019-03-22 12:05:03 INFO  TestBase:294 - Driver has moved to the main tab
+2019-03-22 12:05:03 INFO  TestBase:294 - Navigating to https://uat-policy.americanstrategic.com/Policy/Lookup.aspx
+2019-03-22 12:05:06 INFO  TestBase:294 - Entered username into Agent Login
+2019-03-22 12:05:06 INFO  TestBase:294 - Entered password into Agent Login
+2019-03-22 12:05:07 INFO  TestBase:294 - Logged into Agent Portal
+2019-03-22 12:05:08 INFO  TestBase:294 - Entered Quote / Policy #: Q38945671
+2019-03-22 12:05:10 INFO  TestBase:294 - Clicked the "Lookup Quote/Policy" button on the Rating and Policy Lookup page
+2019-03-22 12:05:16 INFO  TestBase:294 - Clicked the "Next" button on the Plan and Residence Type page
+2019-03-22 12:05:16 INFO  TestBase:294 - Entered Occupation: Other
+2019-03-22 12:05:17 INFO  TestBase:294 - Entered Protection Class: 4
+2019-03-22 12:05:17 INFO  TestBase:294 - "Dwelling Coverage" override check box marked
+2019-03-22 12:05:18 INFO  TestBase:294 - "General Underwriting" override check box marked
+2019-03-22 12:05:18 INFO  TestBase:294 - "Social Security" override check box marked
+2019-03-22 12:05:18 INFO  TestBase:294 - "Water Damage Exclusion" override check box marked
+2019-03-22 12:05:19 INFO  TestBase:294 - "Animal Liability" override check box marked
+2019-03-22 12:05:19 INFO  TestBase:294 - "Purchase Price" override check box marked
+2019-03-22 12:05:19 INFO  TestBase:294 - "Short Sale or Foreclosure" override check box marked
+2019-03-22 12:05:20 INFO  TestBase:294 - "Eligibility Referral" override check box marked
+2019-03-22 12:05:20 INFO  TestBase:294 - "Flood Zone" override check box marked
+2019-03-22 12:05:21 INFO  TestBase:294 - "Geo Location" override check box marked
+2019-03-22 12:05:21 INFO  TestBase:294 - "Address" override check box marked
+2019-03-22 12:05:21 INFO  TestBase:294 - "Closed Zip Code" override check box marked
+2019-03-22 12:05:21 INFO  TestBase:294 - "Remove Lead Liability Exclusion" override check box marked
+2019-03-22 12:05:22 INFO  TestBase:294 - "HomeShield Package" override check box marked
+2019-03-22 12:05:22 INFO  TestBase:294 - "Functional Replacement Cost" override check box marked
+2019-03-22 12:05:22 INFO  TestBase:294 - "Updated Home Discount" override check box marked
+2019-03-22 12:05:22 INFO  TestBase:294 - "Previous Claims" override check box marked
+2019-03-22 12:05:23 INFO  TestBase:294 - "Flat Roof" override check box marked
+2019-03-22 12:05:23 INFO  TestBase:294 - "Address Standardization" override check box marked
+2019-03-22 12:05:23 INFO  TestBase:294 - "CLUE" override check box marked
+2019-03-22 12:05:23 INFO  TestBase:294 - "Age of Dwelling" override check box marked
+2019-03-22 12:05:24 INFO  TestBase:294 - "Loss Assessment" override check box marked
+2019-03-22 12:05:24 INFO  TestBase:294 - "HomeShield Plus Package" override check box marked
+2019-03-22 12:05:24 INFO  TestBase:294 - "Prior Liability Limit" override check box marked
+2019-03-22 12:05:24 INFO  TestBase:294 - "Scheduled Personal Property" override check box marked
+2019-03-22 12:05:25 INFO  TestBase:294 - Entered Notes (FOR OVERRIDE PURPOSE ONLY): Rates Testing
+2019-03-22 12:05:25 INFO  TestBase:294 - Entered Credit Score (Override): 730
+2019-03-22 12:05:26 INFO  TestBase:294 - Entered ASI Claim Surcharge (Override): 0
+2019-03-22 12:05:26 INFO  TestBase:294 - Entered Claim Count (Override): 2
+2019-03-22 12:05:26 INFO  TestBase:294 - All overrides have been applied
+2019-03-22 12:05:29 INFO  TestBase:294 - Clicked the "Save" button on the Policy Rating 1 page
+2019-03-22 12:05:29 INFO  TestBase:294 - Case22-Q38945671: Overrides were able to be saved
+2019-03-22 12:05:29 INFO  TestBase:294 - Navigating to https://62.qa.foragentsonly.com/login/
+2019-03-22 12:05:33 INFO  TestBase:294 - Clicked the "Existing Quote" button on the FAO Home page
+2019-03-22 12:05:33 INFO  TestBase:294 - Entered Last Name: StagingRoundOne
+2019-03-22 12:05:33 INFO  TestBase:294 - Entered First Name: TNHO3Case22
+2019-03-22 12:05:34 INFO  TestBase:294 - Entered Start Effective Date: 03252019
+2019-03-22 12:05:34 INFO  TestBase:294 - Entered End Effective Date: 03252019
+2019-03-22 12:05:34 INFO  TestBase:294 - Clicked the "START" button on the FAO Home page
+2019-03-22 12:06:44 INFO  TestBase:294 - Clicked the appropriate quote: StagingRoundOne, TNHO3Case22 on the Quote Screen
+2019-03-22 12:06:44 INFO  TestBase:294 - Driver has moved to tab 1
+2019-03-22 12:07:02 INFO  TestBase:294 - ====================================== End Rates_HO3 Batch ======================================
