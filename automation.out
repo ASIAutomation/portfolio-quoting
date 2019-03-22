@@ -2978,3 +2978,18 @@
 2019-03-22 09:21:15 INFO  TestBase:294 - HO3 selected as PlanID
 2019-03-22 09:21:15 INFO  TestBase:294 - Clicked the "Start Quote" button on the FAO page
 2019-03-22 09:21:15 INFO  TestBase:294 - Driver has moved to tab 1
+2019-03-22 10:20:06 INFO  TestBase:294 - ====================================== Starting Rates_HO3 Batch ======================================
+2019-03-22 10:20:09 INFO  TestBase:294 - ========================= Starting Case22 =========================
+2019-03-22 10:20:09 INFO  TestBase:294 - Creating object of Chrome
+2019-03-22 10:20:15 INFO  TestBase:294 - Chrome object created
+2019-03-22 10:20:15 INFO  TestBase:294 - Driver has moved to the main tab
+2019-03-22 10:20:15 INFO  TestBase:294 - Navigating to https://62.qa.foragentsonly.com/login/
+2019-03-22 10:20:17 INFO  TestBase:294 - Entered PGR AgentID: 53134 into FAO Login
+2019-03-22 10:20:17 INFO  TestBase:294 - Entered password into FAO Login
+2019-03-22 10:20:21 INFO  TestBase:294 - Logged into FAO
+2019-03-22 10:20:21 INFO  TestBase:294 - Logged in as AgentID: 53134
+2019-03-22 10:20:21 INFO  TestBase:294 - Entered State: TN
+2019-03-22 10:20:21 INFO  TestBase:294 - Clicked the "Select Product(s)" button on the FAO Home page
+2019-03-22 10:20:22 INFO  TestBase:294 - HO3 selected as PlanID
+2019-03-22 10:20:22 INFO  TestBase:294 - Clicked the "Start Quote" button on the FAO page
+2019-03-22 10:20:22 INFO  TestBase:294 - Driver has moved to tab 1
